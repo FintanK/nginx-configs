@@ -1,5 +1,5 @@
 server {
-    server_name yousite.com;
+    server_name localhost;
     root index.html;
 
     location / {
