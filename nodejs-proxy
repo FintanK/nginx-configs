@@ -1,5 +1,5 @@
 server {
-    server_name scaffoldjs.com;
+    server_name yousite.com;
     root index.html;
 
     location / {
